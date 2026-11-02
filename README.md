@@ -1,1 +1,1 @@
-# student-course-manager
+#Job Application Tracker
